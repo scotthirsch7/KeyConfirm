@@ -1,0 +1,6 @@
+[User:]
+scotthirsch7@ksu.edu
+[ProductKey:]
+123456789
+[UserStatus]
+clear
